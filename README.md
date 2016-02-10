@@ -4,6 +4,11 @@
 # models: database communication
 #         idea.rb: model for ideas table in create_ideas migration
 # views: what the end user sees
+#		index.erb: make it pretty
+#		ideas:
+#				index.erb
+#		layouts: 
+#				application.erb: header and footer
 # controllers: lots of routes for our app
 #					ideas_controller.rb: has route that maps the URL to listing of all ideas
 
